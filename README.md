@@ -1,4 +1,4 @@
-conjunto de dados de origem: https://www.kaggle.com/datasets/jainilcoder/article-recommendation-system
+conjunto de dados de origem: https://www.kaggle.com/datasets/thedevastator/better-recipes-for-a-better-life?resource=download&select=test_recipes.csv
 
 Passo 1: Baixe o conjunto de dados no seu dispositivo --> https://github.com/jorgfernandosantana/Jorge_Santana/blob/main/articles.csv
 
